@@ -4,8 +4,11 @@ This software recognizes human faces and their corresponding emotions from a vid
 
 
 ## Get started
-FOr using the above product, please follow the following steps:
+For using the above product, please follow the following steps:
 * Install packages -  opencv-python, pygame and scipy==1.1.0 with pip command (pip install package-name)
 * Install any other package if asked.
 * Run emotions.py file, by the command python emotions.py
 * Enjoy listening to cool music!
+
+## Create you own synthesia
+* Replace with songs that you like and rock n' roll!
