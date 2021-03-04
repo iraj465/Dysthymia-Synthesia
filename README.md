@@ -9,11 +9,3 @@ FOr using the above product, please follow the following steps:
 * Install any other package if asked.
 * Run emotions.py file, by the command python emotions.py
 * Enjoy listening to cool music!
-
-## Contributors
-
-* Saptarshi Majumder (19I190011)
-* Divyansh Srivastava (180100040)
-* Saurabh Parekh (170100016)
-* Dharmender (19310006)
-* Siddhartha Sharma (150110090)
